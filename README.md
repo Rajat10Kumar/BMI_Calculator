@@ -1,6 +1,6 @@
-# BMI Calculator
+# BMI Calculator <img src="./images/ic_launcher.png" width="60" align="center" />
 
-A easy to use modern BMI Calculator
+An easy to use modern BMI Calculator
 
 ## About
 
