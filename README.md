@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A easy to use moderna BMI Calculator
+A easy to use modern BMI Calculator
 
 ## About
 
